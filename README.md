@@ -1,5 +1,7 @@
 # BERD Power and Sample Size 101
 
+Author: Will Baker-Robinson, through OHSU OCTRI BERD
+
 ## Seminar Information
 
 OCTRI-BERD Power and Sample Size 101 presented 2/04/21  
@@ -9,9 +11,9 @@ The OCTRI-BERD website has more information about this seminar [here](https://ww
 
 ## Shiny apps
 
-One Sample Z & T test applet: [link](https://wbakerrobinson.shinyapps.io/One_Sample_T_test_shiny/)  
-Paired Z & T test applet: [link](https://wbakerrobinson.shinyapps.io/Paired_T_test_shiny/)  
-Flexible version of One Sample Z & T test applet: [link](https://wbakerrobinson.shinyapps.io/Flexible_One_Sample_T_test_shiny/)  
+One Sample Z & T test applet: [link](https://ohsu-berd.shinyapps.io/pss_one_sample_ttest/)  
+Paired Z & T test applet: [link](https://ohsu-berd.shinyapps.io/pss_paired_ttest/)  
+Flexible version of One Sample Z & T test applet: [link](https://ohsu-berd.shinyapps.io/pss_flexible_one_sample_ttest/)  
 
 A note on the apps: Every effort was made to test all possible combinations of parameters before the presentation, but I am sure you will find cases that cause things to break. If this happens please let me know!  
 
@@ -21,4 +23,4 @@ Rmarkdown file with code for all sample problems from the seminar: [link](https:
 
 ***
 
-Reach out to bakerrob@ohsu.edu with questions or feedback
+Reach out to berd@ohsu.edu with questions or feedback
